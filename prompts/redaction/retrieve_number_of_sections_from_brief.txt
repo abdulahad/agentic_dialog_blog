@@ -1,0 +1,5 @@
+Give me the total number of sections starting with ## in the following plan, including the introduction and conclusion.
+The conclusion and introduction may not be numbered, so you must be careful to include them. 
+Provide only the number of sections (as an integer), with no comment before or after.
+Here is the plan: 
+{markdown_brief}

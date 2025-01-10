@@ -1,0 +1,8 @@
+Basee sur ces checklists, donnez moi 3-5 phrases qui me donnent des recommendations sur les choses a faire en priorite pour ameliorer mon texte.
+Repondez en francais:
+### Contenu
+{contenu}
+### Meta Titre
+{meta_titre}
+### Meta Description
+{meta_desc}

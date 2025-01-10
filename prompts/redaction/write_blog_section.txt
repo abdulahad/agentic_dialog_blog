@@ -1,0 +1,4 @@
+Write section {section} of the blog. Write it in the following format:
+On a new line and in bold: [Number of Section] - [Title of Section]. If {section} is the "Introduction" don't include either the section title and section nomber.
+On a new line below the number and title of the section: [Generated content for the section]
+The names of the sections should correspond to the names given to each section in the plan structure, exeption for the introduction and conclusion. Do not provide any additional information or say anything else, simply write the section as specified.

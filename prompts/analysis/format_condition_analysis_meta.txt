@@ -1,0 +1,6 @@
+Based off of the analysis below, determine if the condition is fulfilled. (Answer with a "0" if it doesn't and a "1" if it does):
+# CONDITION
+{condition}
+
+# ANALYSIS 
+{analysis}

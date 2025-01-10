@@ -1,0 +1,10 @@
+Generation a meta description based off of this article:
+
+[START]
+{article}
+[END]
+
+The meta description you generate for this article should start with an action verb (e.g., Commencez, Rejoignez, etc...), it should further contain calls to action by evoking emotions or using superlatives. 
+The description should be informative and engaging, providing a clear and compelling overview of the page content. Ensure it includes unique information that differentiates the page from other search results and accurately reflects the page content. 
+Lastly, this meta description should be between 130 and 155 characters and contain the following keyword "{keyword}" within the first 20 characters (try to place it very soon after the action verb). 
+Avoid keyword stuffing and do not add any links. Do not provide any commentary before or after your answer (this also means no title), simply give the meta description in the language of the text.

@@ -1,0 +1,4 @@
+Let's continue with the second step of the workflow. I will now provide you with instructions as to what modifications you need to make to the text I provided.
+Here are the instructions:
+{instructions}
+Let me know once you have read the instruction by saying 'OK'.

@@ -1,0 +1,3 @@
+Here is some text and a prompt that you should apply to the text. Apply the prompt to the text and return the original text with the new edits that were made in markdown. Do not add any additional commentary.
+TEXT: {text}
+PROMPT: {prompt}

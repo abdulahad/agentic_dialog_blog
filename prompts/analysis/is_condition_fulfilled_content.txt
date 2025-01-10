@@ -1,0 +1,9 @@
+Tell me if this text fulfills the following condition. (Answer with a "0" if it doesn't and a "1" if it does):
+# CONDITION
+{condition}
+
+**# INITIAL PLAN** (seperate from the text)
+{user_brief}
+
+**# TEXT**
+{text}

@@ -1,0 +1,6 @@
+Determine if the introduction of the following article is written using one of the introduction writing methods. 
+Here is the article:
+
+[START]
+{article}
+[END]

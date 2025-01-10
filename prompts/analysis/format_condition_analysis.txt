@@ -1,0 +1,13 @@
+Based off of the analysis below, determine if the condition is fulfilled. (Answer with a "0" if it doesn't and a "1" if it does):
+# CONDITION
+Une methode d'accroche est utilise. La methode d'accroche peut etre l'une des suivantes: 
+- APP 
+- PASO
+- AIDA
+- SCIP
+- QUEST
+- QUICC
+- STAR
+
+# ANALYSIS 
+{analysis}

@@ -1,0 +1,4 @@
+Keep the same format, and translate this to French:
+"""
+{text}
+"""

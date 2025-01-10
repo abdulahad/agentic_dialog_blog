@@ -1,0 +1,10 @@
+Generation a meta title based off of this article:
+
+[START]
+{article}
+[END]
+
+The meta title you generate for this article should contain the following keyword: "{keyword}". It should use relevant keywords, be descriptive and concise, clearly indicating the page content with simple and direct language. 
+Ensure it is between 50 and 65 characters, with important information and primary keywords at the beginning. 
+Avoid keyword stuffing and use engaging language to entice clicks while remaining pertinent and informative. 
+Do not provide any commentary before or after your answer (this also means no title), simply give the meta title in the language of the provided text.

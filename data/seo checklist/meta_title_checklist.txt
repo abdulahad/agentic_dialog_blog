@@ -1,0 +1,2 @@
+- [ ] The Meta Title contains the main keyword.
+- [ ] The Meta Title is between 50 and 65 characters.

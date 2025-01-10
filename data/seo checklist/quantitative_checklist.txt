@@ -1,0 +1,13 @@
+﻿- [ ] La structure du contenu est conforme à celle du plan initial.
+- [ ] Le mot-clé principal figure dans les 250 premiers caractères.
+- [ ] Le mot-clé principal représente moins de 2% du contenu final.
+- [ ] Au moins 75% des mots clés secondaires sont présents.
+- [ ] Les mots liés au champ lexical du mot clé principal sont en gras.
+- [ ] 95% des phrases comptent moins de 30 mots.
+- [ ] 95% des paragraphes comportent entre 0 et 80 mots.
+- [ ] Le contenu contient une liste à puce.
+- [ ] Le contenu contient un tableau.
+- [ ] Aucun lien n'apparaît en début de contenu. (dans les 100 caractères à partir du début du contenu).
+- [ ] Aucun lien n'apparaît en début de paragraphe. (dans les 25 caractères à partir du début d'un paragraphe).
+- [ ] Aucun lien n'apparaît en début de phrase. (dans les 15 caractères à partir du début d'une phrase).
+- [ ] Tous les liens sont intégrés dans le contenu.

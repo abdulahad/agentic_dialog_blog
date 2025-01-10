@@ -1,0 +1,5 @@
+Let's start with the first step of the workflow. 
+I will provide you with the current text version, read it and take note of the structure, tone, keywords, and links that appear in the text.
+Once you have done this, wait until I tell you before we continue with the next step. Here is the current version of the text:
+{text}
+Let me know once you are ready to continue by saying 'OK'.

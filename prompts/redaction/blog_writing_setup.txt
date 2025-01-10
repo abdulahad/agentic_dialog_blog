@@ -1,0 +1,9 @@
+Here is the plan structure for the blog article with the general theme **{theme}** you have to follow, use the theme in the text:
+{user_brief}
+Here are the keywords you **have to include in the text**:
+{key_words}
+Here are all the links that you **must include in the blog as hyperlinks** to their associated words:
+{links}
+Write in {language}.
+I will now ask you to write every part of this blog, section by section, make sure the total length of the article is **{text_length} words**. 
+If I have made it clear and you understand, answer 'OK'.

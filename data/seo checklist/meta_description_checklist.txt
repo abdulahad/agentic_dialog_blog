@@ -1,0 +1,4 @@
+- [ ] The Meta Description starts with an action verb.
+- [ ] The Meta Description calls to action by evoking emotions or using superlatives.
+- [ ] The Meta Description is between 130 and 155 characters.
+- [ ] The Meta Description contains the main keyword within the first 20 characters.

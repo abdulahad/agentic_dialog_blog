@@ -1,0 +1,3 @@
+Now that I have provided you with the text and your instructions for modifying the text we can get started with the last step.
+Remember to closely follow the instructions when modifying the text, make no modifications besides the ones specified in the instruction or else the end result may not correspond to what is desired.
+You will now make the desired modifications to the text, do not return anything besides the text.

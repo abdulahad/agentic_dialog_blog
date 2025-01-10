@@ -1,0 +1,13 @@
+Tell me if the text fulfills the following condition. **Think step by step when giving your answer.**
+
+**# CONDITION**
+{condition}
+
+**# TEXT** 
+{text}
+
+**# INITIAL PLAN** (seperate from the text)
+{user_brief}
+
+**# MAIN KEYWORD (Separate from the text)**
+{mot_clef_principal}

@@ -1,0 +1,15 @@
+- [ ] The content does not contain grammatical errors.
+- [ ] The content does not contain spelling errors. (Use LanguageTool in meticulous mode)
+- [ ] 95% of sentences are under 30 words.
+- [ ] 100% of paragraphs are between 60 to 80 words.
+- [ ] The content contains a hook at the beginning (APP, PAS, AIDA...).
+- [ ] The content does not contain a link at the beginning of the content.
+- [ ] The content does not contain a link at the beginning of a paragraph.
+- [ ] The content does not contain a link at the beginning of a sentence.
+- [ ] The content does not have a period at the end of Hn titles.
+- [ ] The content does not have a period at the end of bullet lists.
+- [ ] Words related to the lexical field around the main keyword are bolded.
+- [ ] The content contains the main keyword in the first paragraph.
+- [ ] The tone is adapted to the client's target audience: B2B or B2C.
+- [ ] The internal linking matches the Initial plan.
+- [ ] The structure exactly matches the Hn structure provided in the Initial plan.
