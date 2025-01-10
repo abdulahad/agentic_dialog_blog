@@ -24,8 +24,13 @@ jobs:
 
       - name: Create and start virtual environment
         run: |
+          sudo apt remove pipenv
+          pip3 install pipenv
+          python3 -m pipenv shell
+          pipenv install
           python -m venv venv
           source venv/bin/activate
+          
       
       - name: Install dependencies
         run: pip install -r requirements.txt
