@@ -1,5 +1,4 @@
 ---
-license: apache-2.0
 title: Writing_Agent
 sdk: streamlit
 pinned: true
